@@ -1,0 +1,65 @@
+.selector-for-some-widget {
+    box-sizing: content-box;
+}
+
+footer {
+    position: fixed;
+    bottom:0;
+    left:45%;
+}
+
+p{
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+}
+h1{
+    text-align: right;
+    font-size: 16px;
+    color: white;
+    font-weight: bold;
+}
+/*bloco do texto background*/
+.text {
+    width: 100%;
+    height: 100vh;
+    background: url('imagens/rodovia.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-weight: bold;
+    font-family: verdana, sans-serif;
+    background-clip: initial;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    display: flex;
+    justify-content: center;
+    align-items:  center;
+  flex-direction: column;
+    text-align: justify;
+    max-width: 100%;
+    }
+    span{
+        text-shadow: 0 0 20px rgba(255,255,255,.2);
+        font-size: 7em;
+    }
+  p{
+    -webkit-text-fill-color: #fff;
+    font-family: 'Montsserat', 'Helvetica', 'Source Sans', sans-serif;
+    
+    
+    
+  }
+    body {
+    background: url('imagens/rodovia.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 100wh;
+    padding: 0;
+    margin: 0;
+  
+  }
+  .outer-text{
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,.7);
+  }
