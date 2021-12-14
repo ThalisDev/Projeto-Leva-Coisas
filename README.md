@@ -1,4 +1,6 @@
 ### Prototipo de site para encomendas(Front End)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
 1. cadastro de usuario
 2. cadastro motorista
